@@ -1,5 +1,5 @@
 
-# Build AI Employees with Django — Agentic AI for Developers
+# AI Employees with Django — Agentic AI for Developers
 
 A complete AI-powered customer support system built with Django, Claude API & RAG (Retrieval-Augmented Generation).
 Three AI agents collaborate autonomously to handle customer queries, make refund 
